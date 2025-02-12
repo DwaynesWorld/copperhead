@@ -1,0 +1,16 @@
+---
+# options: https://clang.llvm.org/docs/ClangFormatStyleOptions.html
+AlignAfterOpenBracket: AlwaysBreak
+AlignConsecutiveMacros: Consecutive
+AlignTrailingComments: true
+AllowShortBlocksOnASingleLine: false
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortIfStatementsOnASingleLine: false
+AlwaysBreakAfterReturnType: None
+BasedOnStyle: Google
+ColumnLimit: 80
+IndentWidth: 4
+SpaceAfterCStyleCast: true
+SpacesBeforeTrailingComments: 3
+UseCRLF: false
+UseTab: Never
